@@ -14,7 +14,7 @@ All codes are from course [repository](https://github.com/udacity/deep-learning)
 
 Most of the work are implemented in python & tensorflow within conda environment.
 
-See requirements.txt for details.
+See _**requirements.txt**_ for details.
 
 ## Acknowledgments
 
